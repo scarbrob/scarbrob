@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @scarbrob
-- 👀 I’m interested in discovering, and innovating next generation technology!
-- ✉️ You can reach me at [My Website](https://www.bscarbrough.com).
+- 🔧 Building resilient cloud systems and leading operational excellence
+- ✉️ Reach me at [bscarbrough.com](https://bscarbrough.com)
